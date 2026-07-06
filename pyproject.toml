@@ -1,0 +1,13 @@
+[project]
+name = "cicd-pipeline-storedemo-testdino"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pytest>=9.1.1",
+    "pytest-html>=4.2.0",
+    "requests>=2.34.2",
+    "ruff>=0.15.20",
+    "selenium>=4.45.0",
+]
