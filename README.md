@@ -1,4 +1,6 @@
 # QA Automation Project
+
+🔗 Previous project: [testdino_automation](https://github.com/sakarkharel/testdino_automation)
  
 This QA project will be integrated with a CI/CD pipeline (GitHub Actions) to enable automated test execution on every build/commit.
  
